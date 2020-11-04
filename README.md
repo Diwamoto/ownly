@@ -1,5 +1,5 @@
-# ownly58
+# ownly
 
-ownly58 is 58 key qwerty custom split keyboard
+ownly is 58 key qwerty custom split keyboard
 
 This product released under the GNU GPL.
