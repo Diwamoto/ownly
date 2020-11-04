@@ -11,4 +11,4 @@ This product released under the GNU GPL.
 
 ![画像3](https://github.com/Diwamoto/ownly/blob/master/img/img%20(3).JPG)
 
-![画像4](https://github.com/Diwamoto/ownly/blob/master/img/img%20(4).JPG)
+![画像4](https://github.com/Diwamoto/ownly/blob/master/img/img%20(4).jpg)
