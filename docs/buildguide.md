@@ -66,18 +66,19 @@ https://akizukidenshi.com/catalog/g/gI-15478/
 ### キーマップをいじる
 
 以下の説明はqmkをインストールしている前提でお話します。
-ownlyのファームウェアは[こちら](https://github.com/Diwamoto/qmk_firmware/tree/ownly))
+ownlyのファームウェアは[こちら](https://github.com/Diwamoto/qmk_firmware/tree/ownly)
 より取得できます。
 viaキーマップを書き込むと、プログラミングレスでキーマップをいじる事ができます。
 詳しくは[こちら](（https://salicylic-acid3.hatenablog.com/entry/via-manual）)
 等をご覧になりながら編集することをおすすめします。
 diwamotoキーマップでは、開発中のrgb_matrixの機能を一部分のみ体験（左手のみ）することができます。
+`make ownly:diwamoto:flash` で体験できます。
 作成者の趣味嗜好でできたキーマップですのであまりおすすめはできません。皆さんは皆さんのownlyを作ってください。
 
 ### oled表示をいじる
 
 oledの操作には
-[web フォントエディタ](https://helixfonteditor.netlify.app/))
+[web フォントエディタ](https://helixfonteditor.netlify.app/)
 を推奨します。サイトに行き、ファームウェアの中の`lib/glcdfont.c`を選択してください。
 
 こういう画面になりますので左下の部分を自由にいじる事でled表示を変える事ができます。
