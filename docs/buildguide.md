@@ -72,7 +72,10 @@ viaキーマップを書き込むと、プログラミングレスでキーマ�
 詳しくは[こちら](（https://salicylic-acid3.hatenablog.com/entry/via-manual）)
 等をご覧になりながら編集することをおすすめします。
 diwamotoキーマップでは、開発中のrgb_matrixの機能を一部分のみ体験（左手のみ）することができます。
-`make ownly:diwamoto:flash` で体験できます。
+```
+make ownly:diwamoto:flash
+``` 
+で体験できます。
 作成者の趣味嗜好でできたキーマップですのであまりおすすめはできません。皆さんは皆さんのownlyを作ってください。
 
 ### oled表示をいじる
