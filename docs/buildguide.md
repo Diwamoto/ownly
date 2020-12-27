@@ -34,15 +34,15 @@
 ![pcb折った画像](https://github.com/Diwamoto/ownly/blob/master/img/PCB.JPG)
 
 5. pcbを裏がえしダイオードをはんだ付けします。ダイオードには向きがあるので気を付けてください。
-![ダイオード画像](https://github.com/Diwamoto/ownly/blob/master/img/ダイオード.JPG)
+![ダイオード画像](https://github.com/Diwamoto/ownly/blob/master/img/ダイオード.png)
 
 6. スイッチのソケットをはんだ付けします。決定したレイアウトのシルクの位置に合わせてソケットを置き、はんだ付けしてください。
-![ソケット画像](https://github.com/Diwamoto/ownly/blob/master/img/ソケット.JPG)
+![ソケット画像](https://github.com/Diwamoto/ownly/blob/master/img/ソケット.png)
 
 (LEDを付ける場合はこの段階で取り付けます。取付の方法はオプションを参考にしてください。)
 
 7.trrsジャックとリセットスイッチをはんだ付けします。oled(液晶)を使用する際はピンソケットもハンダ付けしてください。
-![TRRS画像](https://github.com/Diwamoto/ownly/blob/master/img/TRRS.JPG)
+![TRRS画像](https://github.com/Diwamoto/ownly/blob/master/img/TRRS.png)
 
 8.primicroにコンスルーをはんだ付けします。oledを使用する場合はoledモジュールにもピンヘッダを取り付けます。
 9.この段階でpromicroにファームウェアを書き込んでキーボードにつけ、trrsケーブルを接続し左右のキーボードの通電を確認します。ピンセット等で取り付けたソケットをショートさせ反応しないキーがないことを確認します。
@@ -58,7 +58,7 @@
 ### ledの取付
 このキットのledには「YS-SK6812MINI-E」を使用しています。こちらは従来のものにタブがついているもので手はんだがしやすくなっております。
 基板のシルクに合わせてledの足が欠けている部分をはんだ付けしてください。
-![led画像](https://github.com/Diwamoto/ownly/blob/master/img/LED.JPG)
+![led画像](https://github.com/Diwamoto/ownly/blob/master/img/LED.png)
 
 足がついているのではんだ付けはしやすいですが、以前のもののように熱には弱いです。以下の順番ではんだ付けして、一つ一つ確認しながらハンダ付けすることをお勧めします。予備が付属しておりますが、万一足りなくなった場合はこちらで保障することができませんので、秋月電子等でお求め下さい。
 ![https://akizukidenshi.com/catalog/g/gI-15478/](https://akizukidenshi.com/catalog/g/gI-15478/)
@@ -81,4 +81,4 @@ oledの操作には
 を推奨します。サイトに行き、ファームウェアの中の`lib/glcdfont.c`を選択してください。
 
 こういう画面になりますので左下の部分を自由にいじる事でled表示を変える事ができます。
-![](https://github.com/Diwamoto/ownly/blob/master/img/LED.JPG)
+![](https://github.com/Diwamoto/ownly/blob/master/img/oledfont.png)
