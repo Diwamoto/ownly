@@ -61,7 +61,7 @@
 ![led画像](https://github.com/Diwamoto/ownly/blob/master/img/LED.png)
 
 足がついているのではんだ付けはしやすいですが、以前のもののように熱には弱いです。以下の順番ではんだ付けして、一つ一つ確認しながらハンダ付けすることをお勧めします。予備が付属しておりますが、万一足りなくなった場合はこちらで保障することができませんので、秋月電子等でお求め下さい。
-![https://akizukidenshi.com/catalog/g/gI-15478/](https://akizukidenshi.com/catalog/g/gI-15478/)
+https://akizukidenshi.com/catalog/g/gI-15478/
 
 ### キーマップをいじる
 
