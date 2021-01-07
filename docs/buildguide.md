@@ -27,7 +27,7 @@
 2. レイアウトを決定します。isoエンターを利用する場合は一行目一番右端のキーを使用することができます。
 
 3. (必須ではない)pro microのusb端子はもげやすいので、100均のエポキシ接着材等で固めます。
-<a href="https://youtu.be/b-uNS74-5Xw?t=205">こちら</a>
+<a href="https://youtu.be/b-uNS74-5Xw?t=205" target="_brank">こちら</a>
 が参考になると思います（というか、Daihukuさんの動画がとてもわかりやすいので、そっち見た方が作りやすいかもしれません。。。。）
 
 1. pcbを折ります。手できれいに折れるので、残った捨て基板をニッパーなどで取り除いてください。切った端はやすり等で削ると綺麗になくなります。またこのタイミングでpcbの側面をマジック等で塗りつぶしておくと基板感がなくなり高級感が出ます（少しだけ）
@@ -69,7 +69,7 @@ https://akizukidenshi.com/catalog/g/gI-15478/
 ownlyのファームウェアは<a href="https://github.com/Diwamoto/qmk_firmware/tree/ownly" target="_brank">こちら</a>
 より取得できます。
 viaキーマップを書き込むと、プログラミングレスでキーマップをいじる事ができます。
-詳しくは<a href="https://salicylic-acid3.hatenablog.com/entry/via-manual">こちら</a>
+詳しくは<a href="https://salicylic-acid3.hatenablog.com/entry/via-manual" target="_brank">こちら</a>
 等をご覧になりながら編集することをおすすめします。
 diwamotoキーマップでは、開発中のrgb_matrixの機能を一部分のみ体験（左手のみ）することができます。
 ```
@@ -82,7 +82,7 @@ make ownly:diwamoto:flash
 
 oledの操作には
 
-<a href="https://helixfonteditor.netlify.app/">webフォントエディタ</a>
+<a href="https://helixfonteditor.netlify.app/" target="_brank">webフォントエディタ</a>
 を推奨します。サイトに行き、ファームウェアの中の`lib/glcdfont_ownly.c`を選択してください。
 
 こういう画面になりますので左下の部分を自由にいじる事でled表示を変える事ができます。
