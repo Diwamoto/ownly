@@ -50,40 +50,52 @@
 ![TRRS画像](https://github.com/Diwamoto/ownly/blob/master/img/TRRS.png)
 
 8.primicroにコンスルーをはんだ付けします。oledを使用する場合はoledモジュールにもピンヘッダを取り付けます。
+
 ![コンスルー](https://github.com/Diwamoto/ownly/blob/master/img/コンスルー.png)
 
 
 上の画像の部品をこの向きで取り付けてください（向きは同じです。）
+
 ![promicro](https://github.com/Diwamoto/ownly/blob/master/img/pro-micro.png)
 
 
 9.この段階でpromicroにファームウェアを書き込んでキーボードにつけ、trrsケーブルを接続し左右のキーボードの通電を確認します。ピンセット等で取り付けたソケットをショートさせ反応しないキーがないことを確認します。
 
 10. 基板に保護プレート用のスペーサーをねじ止めします。
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/保護プレートスペーサー.png)
 
 11. OLEDモジュールを使用する場合は差し込み、保護プレートをねじ止めします。
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/OLED差し込み.png)
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/保護プレート.png)
 
 12.トッププレートにスペーサーをねじ止めします。
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/スペーサー.png)
 
 
 13.トッププレートの四隅にスイッチをつけ、pcbに合体させます。(スタビライザーを使用する場合は取り付けて置いてください)
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/取り付け.png)
 
 14.残った穴にスイッチを取り付けます。
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/スイッチ取り付け両手.png)
 
 15.ボトムプレートに追加プレート用のスペーサーを取り付けます。追加プレートを使用しないのであれば取り付ける必要はありません。
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/ボトムスペーサー.png)
 
 16.pcbを裏返し、ボトムプレートをねじ止めします。
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/ボトムプレート取り付け.png)
+
 
 17.キーキャップを取り付けて完成です。qmkからキーマップを自由に書き換えてあなただけのものを作り上げてください！
 （ownlyは「自分だけの物」にしたかったのでこういう名前にした経緯があります）
+
 ![](https://github.com/Diwamoto/ownly/blob/master/img/スイッチ取り付け両手.png)
 ## オプション
 
