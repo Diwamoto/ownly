@@ -96,7 +96,7 @@
 17.キーキャップを取り付けて完成です。qmkからキーマップを自由に書き換えてあなただけのものを作り上げてください！
 （ownlyは「自分だけの物」にしたかったのでこういう名前にした経緯があります）
 
-![](https://github.com/Diwamoto/ownly/blob/master/img/スイッチ取り付け両手.png)
+![](https://github.com/Diwamoto/ownly/blob/master/img/完成.png)
 ## オプション
 
 ### ledの取付
@@ -105,7 +105,7 @@
 ![led画像](https://github.com/Diwamoto/ownly/blob/master/img/LED.png)
 
 足がついているのではんだ付けはしやすいですが、以前のもののように熱には弱いです。以下の順番ではんだ付けして、一つ一つ確認しながらハンダ付けすることをお勧めします。予備が付属しておりますが、万一足りなくなった場合はこちらで保障することができませんので、秋月電子等でお求め下さい。
-![led順番](https://github.com/Diwamoto/ownly/blob/master/img/LED.png)
+![led順番](https://github.com/Diwamoto/ownly/blob/master/img/LED順番.png)
 
 https://akizukidenshi.com/catalog/g/gI-15478/
 
