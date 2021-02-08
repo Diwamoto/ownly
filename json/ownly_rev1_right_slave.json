@@ -1,0 +1,15 @@
+{"config":{"version":2,
+    "device_info":{"vid":"0x6c79","pid":"0x746f","name":"Ownly (Split Gaming Keyboard)","manufacture":"Diwamoto","description":"58 Key Gaming Split Keyboard"},
+    "matrix":{"rows":10,"cols":6,"device_rows":5,"device_cols":6,"debounce":1,"is_left_hand":0,"diode_direction":0,"row_pins":[7,8,9,10,11],"col_pins":[19,18,17,16,15,14],
+    "layout":[
+      1,  2,  3,  4,  5,  6, 31, 32, 33, 34, 35, 36,  
+      7,  8,  9, 10, 11, 12, 37, 38, 39, 40, 41, 42, 
+      13, 14, 15, 16, 17, 18, 43, 44, 45, 46, 47, 48, 
+      19, 20, 21, 22, 23, 24, 49, 50, 51, 52, 53, 54, 
+      25, 26, 27, 28, 29, 30, 55, 56, 57, 58, 59, 60]},
+    "mode":"SPLIT_SLAVE","startup":0,
+    "peripheral":{"max_interval":60,"min_interval":30,"slave_latency":7},
+    "central":{"max_interval":60,"min_interval":30,"slave_latency":0},
+    "led":{"pin":2,"num":60},
+    "keymap":{"locale":"US","use_ascii":0},
+    "reserved":[0,0,1,0,0,0,0,0]}}
