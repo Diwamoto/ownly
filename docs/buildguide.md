@@ -60,6 +60,8 @@
 
 
 9.この段階でpromicroにファームウェアを書き込んでキーボードにつけ、trrsケーブルを接続し左右のキーボードの通電を確認します。ピンセット等で取り付けたソケットをショートさせ反応しないキーがないことを確認します。
+promicroのファームウェアの書き込みについては[#primicroにファームウェアを書き込む](#primicroにファームウェアを書き込む)を参照してください。
+
 
 10. 基板に保護プレート用のスペーサーをねじ止めします。
 
@@ -109,17 +111,13 @@
 
 https://akizukidenshi.com/catalog/g/gI-15478/
 
-### キーマップをいじる
+### primicroにファームウェアを書き込む
+キーボードのファームウェアには[qmk](https://github.com/qmk/qmk_firmware)を使用しています。
+qmkのインストールにはQMK_MSYSをお勧めします。詳しくは[こちら](https://zenn.dev/diwamoto/articles/1943345edce519)をご覧ください。
 
-以下の説明はqmkをインストールしている前提でお話します。
-qmk_firmwareのインストール方法は[こちら](https://gist.github.com/MarchRaBBiT/bd14d97feb614f5a0df560dbed48135c)
-よりご確認ください。
-ownlyのファームウェアは<a href="https://github.com/Diwamoto/qmk_firmware/tree/ownly" target="_brank">こちら</a>
-より取得できます。
-viaキーマップを書き込むと、プログラミングレスでキーマップをいじる事ができます。
-詳しくは<a href="https://salicylic-acid3.hatenablog.com/entry/via-manual" target="_brank">こちら</a>
-等をご覧になりながら編集することをおすすめします。
-作成者の趣味嗜好でできたキーマップですのであまりおすすめはできません。皆さんは皆さんのownlyを作ってください。
+**プログラムわからない！やりたくない！！**
+安心して下さい。このレポジトリのhexフォルダにあるファイルを[qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)で
+書き込むことでプログラムレスでキーボードを使うことができます。
 
 ### rgb_matrixを有効にする
 rgb_matrixは今現在まだ分割キーボードをサポートしていませんが、TRRSケーブル経由でLEDを物理的につなぐことで分割キーボードでもrgb_matrixのアニメーションを体験することができます。
