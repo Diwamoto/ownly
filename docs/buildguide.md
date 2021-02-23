@@ -143,6 +143,10 @@ TRRSジャックの一つだけ離れているピンから一番左下のLEDの�
 うまく行けば、両方の手でRGB_MATRIXのアニメーションが流れているハズです。
 アニメーションを変更するのはLower/Raiseキーを押しながらGキーを押すと変更できます。
 
+**上の画像は旧版になります。新版については以下の画像を参考にしてください。**
+
+![matrix](https://github.com/Diwamoto/ownly/blob/master/img/LED_matrix対応.jpg)
+
 
 
 ### oled表示をいじる
